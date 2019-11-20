@@ -6,6 +6,7 @@ import Skills from "./skills";
 
 class Resume extends Component {
   render() {
+    console.log("test");
     return (
       <div>
         <Grid>
