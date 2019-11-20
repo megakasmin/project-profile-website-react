@@ -15,7 +15,7 @@ class Resume extends Component {
                 src="./kitty.jpg"
                 alt="avatar"
                 style={{ height: "250px" }}
-                padding="20px"
+                padding="50px"
               />
             </div>
 
